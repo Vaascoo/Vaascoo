@@ -3,7 +3,7 @@
 </a>
 <br>
 <a href="Languages">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaascoo&langs_count=3&theme=highcontrast&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaascoo&langs_count=3&theme=highcontrast&layout=compact" />
 </a>
 
 <!--

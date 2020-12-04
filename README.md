@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Vaascoo's github stats](https://github-readme-stats.vercel.app/api?username=Vaascoo)](https://github.com/anuraghazra/github-readme-stats)
+[![Vaascoo's github stats](https://github-readme-stats.vercel.app/api?username=Vaascoo&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--

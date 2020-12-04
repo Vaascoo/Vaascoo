@@ -1,6 +1,9 @@
-![Vaascoo's github stats](https://github-readme-stats.vercel.app/api?username=Vaascoo&hide=contribs,prs,issues&count_private=true&theme=vue-dark&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaascoo&theme=vue-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<a href="Profile">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Vaascoo&hide=contribs,prs,issues&count_private=true&theme=vue-dark&show_icons=true" />
+</a>
+<a href="Languages">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaascoo&theme=vue-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
+</a>
 
 <!--
 ### Hi there 👋

@@ -1,4 +1,4 @@
-[![Vaascoo's github stats](https://github-readme-stats.vercel.app/api?username=Vaascoo&theme=vue-dark&count_private=true&hide=prs,issues,contribs](https://github.com/anuraghazra/github-readme-stats)
+[![Vaascoo's github stats](https://github-readme-stats.vercel.app/api?username=Vaascoo&theme=vue-dark&hide=prs,issues,contribs&count_private=true](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaascoo&theme=vue-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 

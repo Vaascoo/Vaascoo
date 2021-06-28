@@ -1,13 +1,11 @@
-<a href="Profile">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Vaascoo&hide=contribs,prs,issues&count_private=true&theme=highcontrast&show_icons=true" />
-</a>
-<br>
+
 <a href="Languages">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaascoo&langs_count=3&theme=highcontrast&layout=compact" />
-  <br>
+</a>
+<br>
+<a>
   <img align="center" src="https://www.codewars.com/users/Vaascoo/badges/micro" />
 </a>
-
 <!--
 ### Hi there 👋
 **Vaascoo/Vaascoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

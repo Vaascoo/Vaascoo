@@ -4,7 +4,7 @@
 </a>
 <br>
 <a>
-  <img align="center" src="https://www.codewars.com/users/Vaascoo/badges/micro" />
+  <img align="center" src="https://www.codewars.com/users/Vaascoo/badges/small" />
 </a>
 <!--
 ### Hi there 👋

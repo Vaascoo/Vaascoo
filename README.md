@@ -1,6 +1,6 @@
 
 <a href="Languages">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaascoo&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaascoo&theme=nord" />
 </a>
 <br>
 <a>

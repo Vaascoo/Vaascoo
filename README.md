@@ -1,7 +1,6 @@
 
 <a href="Languages">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaascoo&langs_count=3&theme=synthwave&layout=compact" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Vaascoo&show_icons=true&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaascoo&theme=synthwave" />
 </a>
 <br>
 <a>

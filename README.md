@@ -1,23 +1,27 @@
+```sh
+[guest@Vaascoo:~] ./greeting.sh
+Hi there, this is my github profile.
+[guest@Vaascoo:~] text=$(cat personal\ info.txt) ; echo \"$text\"
+"I'm currently in the first year of my master's in Computer Science and Engineering @ Instituto Superior Técnico.
 
-<a href="Languages">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaascoo&theme=nord" />
-</a>
-<br>
-<a>
-  <img align="center" src="https://www.codewars.com/users/Vaascoo/badges/small" />
-</a>
-<!--
-### Hi there 👋
-**Vaascoo/Vaascoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Right now, my main interests are Distributed Systems, Computer Networks and pretty much everything linux related
+(especially if it involves NixOS, a linux distribution based on the Nix package manager)."
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[guest@Vaascoo:~] ls -lh skills/languages
+.rw-r--r-- 132k vasco users 21 Oct 21:56 Python
+.rw-r--r-- 167k vasco users 21 Oct 00:24 Go
+.rw-r--r-- 198k vasco users 21 Oct 21:11 C++
+.rw-r--r-- 53k vasco users 21 Oct 21:54 Java
+.rw-r--r-- 45k vasco users 21 Oct 21:56 Typescript
+.rw-r--r-- 155k vasco users 21 Oct 21:52 C#
+.rw-r--r-- 32k vasco users 21 Oct 21:54 C
+.rw-r--r-- 19k vasco users 21 Oct 21:54 Javascript
+[guest@Vaascoo:~] find ./skills/other -name "*"
+./skills/other/docker
+./skills/other/linux
+./skills/other/nix
+./skills/other/shell_scripting
+./skills/other/git
+./skills/other/sql
+[guest@Vaascoo:~] █
+```

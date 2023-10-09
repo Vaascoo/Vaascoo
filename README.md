@@ -4,7 +4,7 @@ Hi there, this is my github profile.
 [guest@Vaascoo:~] text=$(cat personal\ info.txt) ; echo \"$text\"
 "I'm currently in the first year of my master's in Computer Science and Engineering @ Instituto Superior Técnico.
 
-Right now, my main interests are Distributed Systems, Computer Networks and pretty much everything linux related
+Right now, my main interests are Distributed Systems, Operating Systems and pretty much everything linux related
 (especially if it involves NixOS, a linux distribution based on the Nix package manager)."
 
 [guest@Vaascoo:~] ls -lh skills/languages

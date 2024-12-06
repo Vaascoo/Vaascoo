@@ -1,4 +1,4 @@
-```sh
+<!--```sh
 [guest@Vaascoo:~] ./greeting.sh
 Hi there, this is my github profile.
 [guest@Vaascoo:~] text=$(cat personal\ info.txt) ; echo \"$text\"
@@ -25,3 +25,4 @@ Right now, my main interests are Distributed Systems, Operating Systems and pret
 ./skills/other/sql
 [guest@Vaascoo:~] █
 ```
+-->
